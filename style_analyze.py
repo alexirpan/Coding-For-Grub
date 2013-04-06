@@ -48,6 +48,8 @@ def part_of_speech_prop(txt):
             num_adj += 1
     return num_nouns / (num_words * 1.0), num_verbs / (num_words * 1.0), num_adj / (num_words * 1.0), num_adv / (num_words * 1.0)
     
+f = open("OUTPUT.txt", "w")
+    
 def match():
     text_scores = [(average_word_length(txt), average_sentence_length(txt)) for txt in texts]
     speech_counts = [part_of_speech_prop(txt) for txt in texts]
@@ -59,16 +61,18 @@ def match():
         best_ind = ind1
         for ind2 in all_num[1:]:
             score = abs(text_scores[ind1][0] - text_scores[ind2][0]) + 5 * abs(text_scores[ind1][1] - text_scores[ind2][1])
-            score += 100 * abs(speech_counts[ind1][0] - speech_counts[ind2][0])
-            score += 100 * abs(speech_counts[ind1][1] - speech_counts[ind2][1])
-            score += 100 * abs(speech_counts[ind1][2] - speech_counts[ind2][2])
-            score += 100 * abs(speech_counts[ind1][3] - speech_counts[ind2][3])
+            score += 1000 * abs(speech_counts[ind1][0] - speech_counts[ind2][0])
+            score += 1000 * abs(speech_counts[ind1][1] - speech_counts[ind2][1])
+            score += 1000 * abs(speech_counts[ind1][2] - speech_counts[ind2][2])
+            score += 1000 * abs(speech_counts[ind1][3] - speech_counts[ind2][3])
             if score < best_score:
                 best_ind = ind2
                 best_score = score
-        matches.append((ind1 + 1, best_ind + 1))
+        matches.append((ind1+1, best_ind+1))
+        f.write("%d.txt,%d.txt\n" % (ind1+1, best_ind+1))
         all_num.remove(ind1)
         all_num.remove(best_ind)
     return matches
     
 print match()
+f.close()
