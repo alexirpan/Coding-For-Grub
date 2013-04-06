@@ -1,0 +1,17 @@
+The epidemic of non-alcoholic fatty liver disease (NAFLD) is one of my favorite topics on this blog, due to the liver's role as the body's metabolic "grand central station", as Dr. Philip Wood puts it. The liver plays a critical part in the regulation of sugar, insulin, and lipid levels in the blood. Many of the routine blood tests administered in the doctor's office (blood glucose, cholesterol, etc.) partially reflect liver function.
+
+NAFLD is an excessive accumulation of fat in the liver that impairs its function and can lead to severe liver inflammation (NASH), and in a small percentage of people, liver cancer. An estimated 20-30% of people in industrial nations suffer from NAFLD, a shockingly high prevalence (1).
+
+I previously posted on dietary factors I believe are involved in NAFLD. In rodents, feeding a large amount of sugar or industrial seed oils (corn oil, etc.) promotes NAFLD, whereas fats such as butter and coconut oil do not (2). In human infants, enteric feeding with industrial seed oils causes severe liver damage, whereas the same amount of fat from fish oil doesn't, and can even reverse the damage done by seed oils (3).
+
+So basically, I think sugar and industrial oils are major contributors to NAFLD, and if you look at diet trends in the US over the last 40 years, they're consistent with the idea. Industrial oils are harmful due (at least in part) to their high omega-6 content, which is problematic partially because it disturbs normal omega-3 metabolism. A potential solution to fatty liver is to reduce sugar, replace industrial oils with natural fats, and ensure a regular source of omega-3. I've posted two anecdotes of people rapidly healing their fatty livers using diet changes (4, 5).
+
+I recently came across a study that examined the diet of Canadian children with NAFLD (6). The children had a high sugar intake, a typical (i.e., high) omega-6 intake, and a low omega-3 intake. The authors claimed that the children also had a high saturated fat intake, but at 10.5% of calories, they were almost eating to the American Heart Association's "Step I" diet recommendations. Busted! Total fat intake was also low.
+
+High sugar consumption was associated with a larger waist circumference, insulin resistance, lower adiponectin and elevated markers of inflammation. High omega-6 intake was associated with markers of inflammation. Low omega-3 intake was associated with insulin resistance and elevated liver enzymes. Saturated fat intake presumably had no relation to any of these markers, since they didn't mention it in the text.
+
+These children with NAFLD, who were all insulin resistant and mostly obese, had diets high in omega-6, high in sugar, and low in omega-3. This is consistent with the idea that these three factors, which have all been moving in the wrong direction in the last 40 years, contribute to NAFLD.
+
+Fatty liver was assessed by liver enzymes, admittedly not a perfect test. However, elevated liver enzymes do correlate fairly well with NAFLD.
+
+Steps I and II were replaced by new diet advice in 2000. The AHA now recommends keeping saturated fat below 7% of calories. Stock up on those skinless chicken breasts! Make sure there isn't any residual fat sticking to the meat, it might kill you. I do have to give the AHA credit however, because their new recommendations focus mostly on eating real food rather than avoiding saturated fat and cholesterol.

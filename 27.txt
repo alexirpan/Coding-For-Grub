@@ -1,0 +1,13 @@
+Those of you who have spent much time perusing my web site know that cholesterol is the limiting factor for the formation of synapses, connections between neurons that form the basis of learning and memory. In fact, one of the reasons we learn better when we get enough sleep is because the brain ramps up its production of cholesterol when we're getting our shut-eye.
+
+Scientists have long thought that cholesterol in the plasma never enters the brain in significant amounts because its transport is blocked by the blood-brain barrier. In general, the brain produces its own cholesterol and, when that cholesterol's time is up the brain converts it to 24-hydroxy-cholesterol and sends it out with the trash.
+
+An article in February's issue of Current Opinion in Lipidology, however, reviews two recent studies published last year showing that when the brain fails to make enough of its own cholesterol, it does in fact take it from the bloodstream.
+
+In one study, researchers inactivated the gene for squalene synthase, the first enzyme committed to cholesterol synthesis, from the cells in the ventricular zone of the brains of mice. Progenitor cells in this region began producing new blood vessels that allowed them to acquire cholesterol from the bloodstream or from the neural tube.
+
+In the other study, researchers inactivated a cholesterol transporter in glial cells. Glial cells support neurons in a variety of ways - one of them is to produce secretions rich in the cholesterol necessary for synapse formation. The brains of these mice partly made up for the resulting cholesterol deficiency by taking up more cholesterol esters from HDL particles in the bloodstream.
+
+This concept, that when cholesterol made in the brain proves insufficient to meet the brain's needs the brain can compensate by taking cholesterol from the blood, goes a long way in explaining why all of the mental problems suffered by Smith-Lemli-Opitz Syndrome (SLOS) patients improve with dietary cholesterol. In fact, the FDA has even approved a pharmaceutical-grade cholesterol supplement to improve the retardation, hyperactivity, irritability, poor attention span, and tendency toward aggressive and self-injuring behavior seen in these children.
+
+These findings are truly remarkable, because they open up the possibility that cholesterol in the bloodstream may support the brain in much less extreme cases of cholesterol deficiency and in many other undiscovered ways.

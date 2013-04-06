@@ -1,0 +1,41 @@
+Ok, I've just got 10 minutes to spare. What shall we play?
+
+Last Saturday was the pathology lab's Christmas Party. In my cracker I was graced by a small and extremely nasty quality plastic magnifying glass which, sadly, I discarded. It might have come in useful in searching for any intellectual understanding in the Good Doctor's latest demolition of the role of insulin in obesity. Actually, the loss of the hand lens is no real problem as I doubt whether even an electron microscope would allow us to find something which is not there.
+
+Let's begin with TNFalpha knock out mice. First thing is that these are based on C57BL/6 mice and, as I have discussed on many occasions, these mice develop an hypothalamic injury which decreases sympathetic outflow to adipocytes and so increases their ability to store fat. You need some technique to make fat mice fat and C57BL/6 are your candidate critters. They are really useful in that they lose fat in to adipocytes, just don't imagine they have anything to do with human obesity. But as a tool, they're great.
+
+Here are the diagrams we need, taken straight from the Good Dr's blog:
+
+All very clear cut.
+
+But what does it mean? Fasting insulin goes up when adipocytes become insulin resistant and so leak FFAs, especially palmitic and stearic acids. Adipocytes become insulin resistant when they become over stuffed with lipid. They don't want any more fat, so they refuse to respond to insulin. Remember that the role of insulin is the storage of dietary fat, plus a little DNL if dietary fat is very low. If adipocytes don't want to respond to insulin they will signal to the rest of the body to do the same. That's working on the basis that adipocytes control whole body insulin resistance based on the ratio of palmitic acid to palmitoleic acid they release, which is in turn dependent on their own insulin sensitivity and SCD1 activity.
+
+Now I have yet to delve in to the mechanics of adipocyte distention induced insulin resistance but I can tell you something here and now for free. It involves the TNFalpha. If you knock out TNFalpha your adipocytes (and pretty much the rest of your body) cannot become insulin resistant. No one gets fat due to insulin failing to act. You become fat due to the action of insulin on adipocytes. When adipocytes refuse to listen to insulin you stop getting fatter, but become hyperglycaemic (unless you eat LC of course!).
+
+So the difference between wild type high fat fed mice (plus sucrose of course, the "cookie dough" they "can't get enough of") and TNFa-/- HFD fed mice is that the wild type mice are sending the signal to the rest of the body that they are fat enough and would like to stop accepting any more calories, fat or glucose. A combination of hypothalamic injury, a sucrose rich diet and a pancreas of steel makes these wild type C57BL/6 mice continue to become obese because they need massive levels of insulin to maintain normoglycaemia. All because insulin resistant adipocytes are signalling that insulin resistance should be produced in insulin controlled cells throughout the body.
+
+Summary: Insulin sensitive adipocytes distend in response to insulin. Insulin resistant adipocytes don't. Hyperglycaemia needs to be corrected. The large dose of insulin needed for this continues to drive obesity by force-enlarging insulin resistant adipocytes. With TNFalpha knocked out the adipocytes become "effortlessly" obese. They, and the rest of the body, will stay insulin sensitive and there will be "easily achieved" normoglycaemia. Healthy obese, but still very obese. Obese due to modest insulin acting on very insulin sensitive adipocytes.
+
+Now, on to iNOS knock out mice. These are really interesting. Again, they are based on C57BL/6 freak mice. A useful model for basic physiology, so long as you have some concept of what is wrong with them. These mice have also had inducible nitric oxide synthetase knocked out ONLY from their muscles. Adipocytes are normal, or as normal as any C57BL/6 mouse can be. Here are the weights etc from the results:
+
+Just look at those gluttonous food intakes and fat gains! Wow.
+
+We can get a basic handle of what is going on from this set of graphs:
+
+Graph a is worthy of the Good Doctor. HFD fed Nos2-/- mice are not only enormously obese, but they manage it on a fasting insulin which is LOWER (admittedly not significantly so) than that of the WT mice fed crapinabag! Blooooodie hell!
+
+I could spend days discussing graph b, but I'm already half way through my 10 minutes so let's leave it, fascinating though it is...
+
+Graph c. This is the pay dirt. Here they injected insulin in to the various WT and KO mice and tracked the fall in blood glucose levels. The ruler-drawn straight line of black squares is the HFD Nos2-/- mice. These massively obese mice are the MOST insulin sensitive, whole body, of all groups, certainly at the 60 minute mark.
+
+Their adipocytes aren't. These are insulin resistant. All that remains sensitive to insulin are the targeted knock out muscles. On insulin injection these mice simply pour glucose in to their Nos2-/- muscles because the muscles ignore the signals from the insulin resistant adipocytes. Their muscle cells are like a black hole in to which glucose pours. Now, at the risk of quoting the Good Dr yet again: Hypoglycaemia is a very, very potent driver of hunger. Eat, or die.
+
+What's on the menu? Ah, a bowl of lard sweetened with sugar. Death is not an option, let's eat the lard to get the sugar. Good idea, stayin' alive. Now, we've used the sugar, what shall we do with the lard? Ah, as a brain injured C57BL/6 mouse we have adipocytes which are rather more willing to accept fat than a genuine wild type mouse might have. Bye bye fat, in to the adipocytes you go! But at least death due to hypoglycaemia is avoided, all be it at the cost of greater obesity! 
+
+If you have been following the protons thread you can see that linoleic acid, ie corn oil, is a mild mimic of TNFa-/- mice and of Nos2-/- mice. It's obesogenic while preserving insulin sensitivity. Your cardiologist made you fat.
+
+Now, in my last 30 seconds: Why are adipocyte insulin receptor knock out (FIRKO) mice healthy and slim? Well you could ask the Good Dr for some sort of platitude, but, hey, that would be stupid.
+
+No. Adipocytes control whole body insulin sensitivity. They see no insulin if they have had their insulin receptors knocked out. They sport minimal (zero?) GLUT4s on their surface. What fat they contain has been accumulated without the assistance of insulin. I think it is reasonable to assume they have some GLUT1s on their surface. Any glucose taken up will be available for lipid synthesis but, without insulin's action, there will be no insulin induced SCD1 desaturase activity. So palmitate it is and, in the absence of insulin's action, this will be freely released and should signal whole body insulin resistance. But it doesn't. It does exactly the same as the palmitic acid does in SCD1 knockout mice. Peroxisiomes. FIRKO mice eat more, weigh less and (probably) generate more heat than WT mice do. They are insulin sensitive everywhere except for their adipocytes. They behave exactly as SCD1-/- mice do but get there by a rather indirect route. Excess palmitate is burned in peroxisomes and the C8 end product in mitochondria.
+
+Life is, in the end, logical. Having the correct tools helps. It must be awful to be wallowing in the mire of the Reward hypothesis.
